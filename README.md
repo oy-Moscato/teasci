@@ -24,6 +24,7 @@
 | 曾讨论过的 38 个可检验问题 | [question_index.csv](literature/question_index.csv)，当前优先级仍以任务台账为准 |
 | 最小可行实验与指标分母 | [EXPERIMENT_PLAN](docs/EXPERIMENT_PLAN.md)、[METRICS](docs/METRICS.md) |
 | 数据字段、实验版本、空白记录表 | [实验记录入口](experiments/README.md) |
+| 本机旧工程证据、数值复算和复现缺口 | [证据索引](evidence/local_inventory/INDEX.md)、[独立复核](reviews/LOCAL_INVENTORY_REVIEW_2026-09-06.md) |
 | 用户逐条原话、最近两轮答复和较早四份报告 | [对话与原始报告档案](archive/README.md) |
 
 ## 接手规则
@@ -35,6 +36,6 @@
 
 ## 本次入库范围
 
-维护日期：2026-09-06。包含当前可取得的对话内容、四份 2026-09-05 原始审查报告、后续证据纠正和可执行协作模板。**这不是聊天平台的全量原始导出**；覆盖限制见档案说明。尚未导入真实茶树数据、训练权重或算法代码；表格模板没有填造实验结果。
+维护日期：2026-09-06。包含当前可取得的对话内容、四份 2026-09-05 原始审查报告、后续证据纠正和可执行协作模板。**这不是聊天平台的全量原始导出**；覆盖限制见档案说明。已收录其他相关项目的室内样例、代理植物结果和部分计算代码供复核，尚未导入本题真实茶树数据、训练权重或完整主动发现实现；表格模板没有填造实验结果。
 
 更新文献索引：`python tools/build_indexes.py`。检查文件链接、索引和档案完整性：`python tools/validate_repository.py`。
