@@ -93,5 +93,210 @@
     "date": "2026-09-06",
     "query": "\"tea\" \"harvesting robot\" \"recall\" \"harvesting rate\"",
     "provenance": "当前可见工具调用；仅记录可恢复查询，不代表该日全部检索"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Multiple object tracking with multi-view active vision\" pdf",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q01"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Semantics-aware next-best-view\" \"ground truth\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q02"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"tea shoot\" \"active vision\" \"detection\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q03"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"tea buds\" \"viewpoint planning\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q04"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Positioning method for tea picking using active computer vision\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system1；编号U18-Q05"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "site.edepot.wur.nl/691019 \"ground truth\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system1；编号U18-Q06"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "site.edepot.wur.nl/691019 \"PCO\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system1；编号U18-Q07"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"tea\" \"active perception\" \"viewpoint\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system1；recency=730；编号U18-Q08"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Multiple object tracking with multi-view active vision\" \"ground truth\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q09"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Multiple object tracking with multi-view active vision\" \"PCO\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q10"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Positioning method for tea picking using active computer vision\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q11"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"茶叶采摘\" \"主动视觉\" 定位 方法",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q12"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"110266\" \"ground-truth\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q13"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"110266\" \"pre-recorded\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q14"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Semantics-aware next-best-view planning\" pdf",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q15"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"NBV-SC\" \"arxiv\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q16"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"基于主动计算机视觉的茶叶采摘定位技术\" \"旋转\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q17"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Semantics-aware\" \"750\" \"ground\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q18"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"MOT-MAV\" \"PCO\" \"truth\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q19"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Multiple object tracking with multi-view active vision\" \"2.2.3\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q20"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Multiple object tracking with multi-view active vision\" \"correctly\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q21"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Multiple object tracking with multi-view active vision\" \"75\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q22"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"基于主动计算机视觉的茶叶采摘定位技术\" 张浩 摄像机",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q23"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"MOT-MAV\" \"pre-recorded data\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q24"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"MOT-MAV\" \"PCO\" \"defined\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q25"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"MOT-MAV\" \"false positives\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q26"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Semantics-aware next-best-view planning\" \"initial\" \"stem\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q27"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"tea\" \"active vision\" \"next-best-view\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system1；recency=730；编号U18-Q28"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"tea shoot\" \"viewpoint\" occlusion",
+    "provenance": "U18区域主动发现限定审查；实际提交；system1；recency=730；编号U18-Q29"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"active vision\" \"plant\" \"object discovery\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system1；recency=730；编号U18-Q30"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"SemP-NBV\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system1；recency=730；编号U18-Q31"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Improved YOLOv8 network using multi-scale feature fusion\" tea",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q32"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"tea bud\" \"lateral and pitch\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q33"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"MOT-MAV\" \"Percentage of\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q34"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Semantics-aware next-best-view planning\" \"PCO\" \"F1\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q35"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"10.25165/j.ijabe.20251805.9475\" \"viewpoint\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q36"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"10.25165/j.ijabe.20251805.9475\" \"occlusion\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q37"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Tea-shoot pose estimation based on light field multi-cue\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q38"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"STEM: Semantic target search and exploration\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q39"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"Active view planning for counting apples in orchards\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q40"
+  },
+  {
+    "date": "2026-09-06",
+    "query": "\"GO-VMP\" \"Global optimization\"",
+    "provenance": "U18区域主动发现限定审查；实际提交；system2；编号U18-Q41"
   }
 ]

@@ -4,7 +4,7 @@
 
 ## 覆盖范围与限制
 
-- [user_messages.md](conversation/user_messages.md)：当前可见的本项目用户原话，按出现顺序保留，包括重复检索请求和最后的 Sensors 纠正；不包含系统工具、插件清单或其他私人话题。
+- [user_messages.md](conversation/user_messages.md)：当前可见的本项目用户原话，按出现顺序保留，包括重复检索请求、Sensors 纠正及 U18 限定问题；不包含系统工具、插件清单或其他私人话题。
 - [assistant_recent.md](conversation/assistant_recent.md)：最近两轮完整答复正文，引用标记转为可打开的来源链接；按历史回复保存，其中有已被纠正的推断。
 - 较早助手回复在当前可取得材料中不是逐条完整原始消息；以以下四份原样报告保留研究内容与当时建议。不冒称平台全量聊天导出。
 - 当前主张以 [CURRENT_STATE](../docs/CURRENT_STATE.md) 和 [DECISIONS](../docs/DECISIONS.md)为准。若后续提供完整聊天导出，可追加原文并更新覆盖范围，不需要重做文献研究。

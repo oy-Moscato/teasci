@@ -1,6 +1,6 @@
 # 文献查重入口
 
-先读 [CURRENT_AUDIT](CURRENT_AUDIT.md)，再按 DOI/题名检索 [literature_index.csv](literature_index.csv)。[search_log.csv](search_log.csv)保存可取得的实际检索式；查询数量不是独立论文数量。
+本轮限定问题先读 [区域主动发现现状审查](REGIONAL_DISCOVERY_REVIEW_2026-09-06.md)，项目总览读 [CURRENT_AUDIT](CURRENT_AUDIT.md)，再按 DOI/题名检索 [literature_index.csv](literature_index.csv)。[search_log.csv](search_log.csv)保存可取得的实际检索式；查询数量不是独立论文数量。
 
 ## 台账结构
 
@@ -14,8 +14,8 @@
 
 ## 下一步精读只补具体字段
 
-1. L002：MOT-MAV 的真实目标真值、PCO 定义、视点动作集、终止与运行时间。
-2. L005：语义任务部位搜索对未知目标探索的处理。
+1. L002：本轮已补真值、PCO、回放、成本与误检字段；下一步核对作者代码的参数、输入和适配。
+2. L005：本轮已补未知目标探索与参考真值字段；下一步选取适合茶树区域的基线版本。
 3. L003：稀疏初扫后概率语义地图/聚类选视点与本方案的重叠；不把表面覆盖等同对象召回。
 4. L004：茶芽远近视觉接管流程，划清粗定位、分级与区域发现的边界。
 5. L001：只在要补充自主程度证据时查看其引用的视觉工作/补充材料；110 芽数字本身不再重复争论。

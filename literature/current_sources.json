@@ -18,9 +18,9 @@
     "primary_url": "https://research.wur.nl/en/publications/multiple-object-tracking-with-multi-view-active-vision-to-effecti/",
     "alternate_url": "https://edepot.wur.nl/691019",
     "kind": "journal",
-    "evidence_level": "A",
-    "verification_scope": "作者机构摘要；10株自然温室植株、预定视点与MOT/MAV组合比较",
-    "supported_claim_and_limit": "主动换视点提高植物节点发现已有实证；PCO和召回分母/停止规则须进一步正文对照",
+    "evidence_level": "F",
+    "verification_scope": "作者机构公开PDF第2.2、2.3、4.1、4.2节和表4；另核对作者代码仓库目录，未运行",
+    "supported_claim_and_limit": "真实番茄预采视角回放；PCO不是最终对象召回；表4未固定精确率，不能直接证明等误检收益",
     "recorded_at": "2026-09-06"
   },
   {
@@ -54,9 +54,9 @@
     "primary_url": "https://www.sciencedirect.com/science/article/pii/S1537511024002204",
     "alternate_url": "https://arxiv.org/abs/2306.09801",
     "kind": "journal",
-    "evidence_level": "HISTORY",
-    "verification_scope": "既有报告R10原始/作者摘要核查；本次迁移",
-    "supported_claim_and_limit": "任务相关植物部位主动搜索已有；补查未知目标探索与真值/成本字段",
+    "evidence_level": "F",
+    "verification_scope": "arXiv:2306.09801v3公开PDF第2、3.5、4.3节及评价段落",
+    "supported_claim_and_limit": "未知植株结构下搜索新节点与补看旧节点已有；真实场景使用750视角回放与COLMAP参考真值",
     "recorded_at": "2026-09-06"
   },
   {
@@ -189,6 +189,126 @@
     "evidence_level": "A",
     "verification_scope": "2026-09-06从此前来源恢复并核对出版方摘要、题名和DOI；IJRR 2018, 37(2-3), 287–315",
     "supported_claim_and_limit": "候选动作下显式推理数据关联与混合高斯信念、主动消歧已有；摘要报告办公室机器人实验，不是茶芽场景",
+    "recorded_at": "2026-09-06"
+  },
+  {
+    "id": "L017",
+    "title": "基于主动计算机视觉的茶叶采摘定位技术 / Positioning Method for Tea Picking Using Active Computer Vision",
+    "identifier": "10.6041/j.issn.1000-1298.2014.09.010",
+    "primary_url": "https://www.j-csam.org/ch/reader/view_abstract.aspx?doi=10.6041%2Fj.issn.1000-1298.2014.09.010",
+    "alternate_url": "",
+    "kind": "journal",
+    "evidence_level": "S",
+    "verification_scope": "原出版商索引的摘要片段；网页直接打开403",
+    "supported_claim_and_limit": "光栅投影三维定位；不能仅凭active题名归为反馈NBV，也不是2021撤稿论文",
+    "recorded_at": "2026-09-06"
+  },
+  {
+    "id": "L018",
+    "title": "NBV-SC: Next Best View Planning based on Shape Completion for Fruit Mapping and Reconstruction",
+    "identifier": "10.1109/IROS55552.2023.10341855",
+    "primary_url": "https://arxiv.org/pdf/2209.15376",
+    "alternate_url": "https://www.phenorob.de/research-videos/index.html",
+    "kind": "conference",
+    "evidence_level": "F",
+    "verification_scope": "作者稿第III-C和IV节；未知探索、历史视角差异、检测数和重建实验",
+    "supported_claim_and_limit": "探索/补看切换已有；仿真定量与甜椒实物定性验证，非茶芽等误检试验",
+    "recorded_at": "2026-09-06"
+  },
+  {
+    "id": "L019",
+    "title": "Improved YOLOv8 network using multi-scale feature fusion for detecting small tea shoots in complex environments",
+    "identifier": "10.25165/j.ijabe.20251805.9475",
+    "primary_url": "https://ijabe.org/index.php/ijabe/article/download/9475/pdf/32906",
+    "alternate_url": "https://ijabe.org/index.php/ijabe/article/view/9475",
+    "kind": "journal",
+    "evidence_level": "F",
+    "verification_scope": "原出版商PDF第4节、图11及第231页末段和结论",
+    "supported_claim_and_limit": "茶芽NBV横向/俯仰补看已有展望提案；本文未给出本题闭环区域发现比较",
+    "recorded_at": "2026-09-06"
+  },
+  {
+    "id": "L020",
+    "title": "GO-VMP: Global Optimization for View Motion Planning in Fruit Mapping",
+    "identifier": "arXiv:2503.03912",
+    "primary_url": "https://arxiv.org/html/2503.03912v2",
+    "alternate_url": "https://github.com/AllenIsaacJose/GO-VMP",
+    "kind": "conference",
+    "evidence_level": "F",
+    "verification_scope": "IROS2025作者稿III、IV-A、V-A、V-E；作者机构会议记录",
+    "supported_claim_and_limit": "未知场景区域预算、探索边界和视角运动联合优化已有；仿真定量，室内甜椒模拟场景实物，限时允许末路径超时",
+    "recorded_at": "2026-09-06"
+  },
+  {
+    "id": "L021",
+    "title": "SemP-NBV: Semantic-Aware Predictive Next-Best-View for Autonomous Plant 3D Reconstruction",
+    "identifier": "10.1109/IROS60139.2025.11246260",
+    "primary_url": "https://ieeexplore.ieee.org/iel8/11245651/11245652/11246260.pdf",
+    "alternate_url": "https://github.com/ARLabXiang/SemP-NBV",
+    "kind": "conference",
+    "evidence_level": "S",
+    "verification_scope": "IEEE原始PDF索引片段、作者项目页及关联规划代码入口；未精读全文或运行",
+    "supported_claim_and_limit": "植物语义预测重建近邻；作者已有外部代码依赖说明，不能把TODO认成无代码",
+    "recorded_at": "2026-09-06"
+  },
+  {
+    "id": "L022",
+    "title": "Receding-Horizon Next-Best-View Planner for Autonomous Leaf Surface Reconstruction",
+    "identifier": "arXiv:2607.28995",
+    "primary_url": "https://arxiv.org/html/2607.28995v1",
+    "alternate_url": "",
+    "kind": "preprint",
+    "evidence_level": "F",
+    "verification_scope": "作者HTML全文第IV节问题输入、第VI节与评价",
+    "supported_claim_and_limit": "给定带实例标签的植物点云、行程预算下叶面重建；并非初始芽位未知的在线发现",
+    "recorded_at": "2026-09-06"
+  },
+  {
+    "id": "L023",
+    "title": "STEM: Semantic target search and exploration using MAVs in cluttered environments",
+    "identifier": "10.1007/s10514-026-10247-6",
+    "primary_url": "https://link.springer.com/article/10.1007/s10514-026-10247-6",
+    "alternate_url": "https://github.com/nikhil-sethi/stem",
+    "kind": "journal",
+    "evidence_level": "F",
+    "verification_scope": "出版商摘要、方法概述与结论；未复现实验",
+    "supported_claim_and_limit": "语义引导探索边界及搜索/覆盖平衡已有；面向MAV目标搜索，不是茶芽累计清点",
+    "recorded_at": "2026-09-06"
+  },
+  {
+    "id": "L024",
+    "title": "Active view planning for counting apples in orchards",
+    "identifier": "10.1109/IROS.2017.8206500",
+    "primary_url": "https://experts.umn.edu/en/publications/active-view-planning-for-counting-apples-in-orchards/",
+    "alternate_url": "https://rsn.umn.edu/projects/orchard-monitoring/robotic-yield-estimation-apple-orchards",
+    "kind": "conference",
+    "evidence_level": "A",
+    "verification_scope": "作者机构原始摘要与书目",
+    "supported_claim_and_limit": "果簇几何假设、多视角计数及单步/多步规划已有；不据摘要外推区域搜索",
+    "recorded_at": "2026-09-06"
+  },
+  {
+    "id": "L025",
+    "title": "DAVIS-Ag: A Synthetic Plant Dataset for Prototyping Domain-Inspired Active Vision in Agricultural Robots",
+    "identifier": "arXiv:2303.05764",
+    "primary_url": "https://arxiv.org/pdf/2303.05764",
+    "alternate_url": "https://github.com/ctyeong/DAVIS-Ag",
+    "kind": "author_manuscript",
+    "evidence_level": "F",
+    "verification_scope": "作者稿v3第I至III节，数据集和任务定义",
+    "supported_claim_and_limit": "植物主动视觉与可达视角回放数据集；不是NBV-SC，不能误配arXiv号",
+    "recorded_at": "2026-09-06"
+  },
+  {
+    "id": "L026",
+    "title": "Tea-shoot pose estimation based on light field multi-cue fusion depth estimation",
+    "identifier": "10.1016/j.compag.2026.112316",
+    "primary_url": "https://www.sciencedirect.com/science/article/abs/pii/S0168169926009142",
+    "alternate_url": "",
+    "kind": "journal_date_pending",
+    "evidence_level": "A",
+    "verification_scope": "出版商摘要/框架；页面标注2026年12月卷期，早期在线日期未核实",
+    "supported_claim_and_limit": "光场深度与姿态估计，非反馈区域发现；未用于本日已发表优先权判断",
     "recorded_at": "2026-09-06"
   }
 ]

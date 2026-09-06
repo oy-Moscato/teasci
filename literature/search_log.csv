@@ -169,3 +169,43 @@ Q167,"""Intelligent Tea-Picking System"" ""retracted""",2026-09-06,当前可见�
 Q168,"""Impedance Control Method for Tea-Picking"" ""110"" ""94""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
 Q169,"""Kinetostatic modeling"" ""94.33"" ""300""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
 Q170,"""tea"" ""harvesting robot"" ""recall"" ""harvesting rate""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q171,"""Multiple object tracking with multi-view active vision"" pdf",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q01,1
+Q172,"""Semantics-aware next-best-view"" ""ground truth""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q02,1
+Q173,"""tea shoot"" ""active vision"" ""detection""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q03,1
+Q174,"""tea buds"" ""viewpoint planning""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q04,1
+Q175,"""Positioning method for tea picking using active computer vision""",2026-09-06,U18区域主动发现限定审查；实际提交；system1；编号U18-Q05;U18区域主动发现限定审查；实际提交；system2；编号U18-Q11,2
+Q176,"site.edepot.wur.nl/691019 ""ground truth""",2026-09-06,U18区域主动发现限定审查；实际提交；system1；编号U18-Q06,1
+Q177,"site.edepot.wur.nl/691019 ""PCO""",2026-09-06,U18区域主动发现限定审查；实际提交；system1；编号U18-Q07,1
+Q178,"""tea"" ""active perception"" ""viewpoint""",2026-09-06,U18区域主动发现限定审查；实际提交；system1；recency=730；编号U18-Q08,1
+Q179,"""Multiple object tracking with multi-view active vision"" ""ground truth""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q09,1
+Q180,"""Multiple object tracking with multi-view active vision"" ""PCO""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q10,1
+Q181,"""茶叶采摘"" ""主动视觉"" 定位 方法",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q12,1
+Q182,"""110266"" ""ground-truth""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q13,1
+Q183,"""110266"" ""pre-recorded""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q14,1
+Q184,"""Semantics-aware next-best-view planning"" pdf",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q15,1
+Q185,"""NBV-SC"" ""arxiv""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q16,1
+Q186,"""基于主动计算机视觉的茶叶采摘定位技术"" ""旋转""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q17,1
+Q187,"""Semantics-aware"" ""750"" ""ground""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q18,1
+Q188,"""MOT-MAV"" ""PCO"" ""truth""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q19,1
+Q189,"""Multiple object tracking with multi-view active vision"" ""2.2.3""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q20,1
+Q190,"""Multiple object tracking with multi-view active vision"" ""correctly""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q21,1
+Q191,"""Multiple object tracking with multi-view active vision"" ""75""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q22,1
+Q192,"""基于主动计算机视觉的茶叶采摘定位技术"" 张浩 摄像机",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q23,1
+Q193,"""MOT-MAV"" ""pre-recorded data""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q24,1
+Q194,"""MOT-MAV"" ""PCO"" ""defined""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q25,1
+Q195,"""MOT-MAV"" ""false positives""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q26,1
+Q196,"""Semantics-aware next-best-view planning"" ""initial"" ""stem""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q27,1
+Q197,"""tea"" ""active vision"" ""next-best-view""",2026-09-06,U18区域主动发现限定审查；实际提交；system1；recency=730；编号U18-Q28,1
+Q198,"""tea shoot"" ""viewpoint"" occlusion",2026-09-06,U18区域主动发现限定审查；实际提交；system1；recency=730；编号U18-Q29,1
+Q199,"""active vision"" ""plant"" ""object discovery""",2026-09-06,U18区域主动发现限定审查；实际提交；system1；recency=730；编号U18-Q30,1
+Q200,"""SemP-NBV""",2026-09-06,U18区域主动发现限定审查；实际提交；system1；recency=730；编号U18-Q31,1
+Q201,"""Improved YOLOv8 network using multi-scale feature fusion"" tea",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q32,1
+Q202,"""tea bud"" ""lateral and pitch""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q33,1
+Q203,"""MOT-MAV"" ""Percentage of""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q34,1
+Q204,"""Semantics-aware next-best-view planning"" ""PCO"" ""F1""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q35,1
+Q205,"""10.25165/j.ijabe.20251805.9475"" ""viewpoint""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q36,1
+Q206,"""10.25165/j.ijabe.20251805.9475"" ""occlusion""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q37,1
+Q207,"""Tea-shoot pose estimation based on light field multi-cue""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q38,1
+Q208,"""STEM: Semantic target search and exploration""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q39,1
+Q209,"""Active view planning for counting apples in orchards""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q40,1
+Q210,"""GO-VMP"" ""Global optimization""",2026-09-06,U18区域主动发现限定审查；实际提交；system2；编号U18-Q41,1
