@@ -18,6 +18,7 @@
 | 为什么从 ROI 转向区域主动视觉；哪些旧推断已纠正 | [DECISIONS](docs/DECISIONS.md) |
 | 开始新工作前查重、认领、提交成果的办法 | [CONTRIBUTING](CONTRIBUTING.md) |
 | 下一步实验、职责与完成条件 | [TASKS](docs/TASKS.md) |
+| 行动前要准备什么、何时进入正式比较 | [PREPARATION](docs/PREPARATION.md)、[协议冻结表](experiments/templates/protocol_freeze.md) |
 | 关键近邻、可引用结论及不能外推的内容 | [文献审查入口](literature/README.md)、[最新证据审查](literature/CURRENT_AUDIT.md) |
 | 四轮历史审查中全部文献条目的可搜索台账 | [literature_index.csv](literature/literature_index.csv) |
 | 已经用过的检索词，避免重新广搜 | [search_log.csv](literature/search_log.csv) |
@@ -25,6 +26,8 @@
 | 最小可行实验与指标分母 | [EXPERIMENT_PLAN](docs/EXPERIMENT_PLAN.md)、[METRICS](docs/METRICS.md) |
 | 数据字段、实验版本、空白记录表 | [实验记录入口](experiments/README.md) |
 | 用户逐条原话、最近两轮答复和较早四份报告 | [对话与原始报告档案](archive/README.md) |
+
+先导协议已修订为 `pilot-v0.2` 建议版：同一截止清单评价发现率与精确率、观察后再改变场景核验、限定稳定回放、分开机制与系统比较、保存完整快照、采用三种去留判断。修订来源见 D22–D27。现在可认领 T01/T02/T04 开展盘点、标注定义和开发试采；型号、场地、预算与记录程序验收等进入条件仍需实际证据。
 
 ## 接手规则
 

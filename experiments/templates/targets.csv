@@ -1,1 +1,1 @@
-region_id,target_id,true_grade,eligible,initial_visibility,observable_from_allowed_views,ground_truth_confidence,reviewer,evidence_path,notes
+region_id,scene_version,ground_truth_version,target_id,true_grade,eligible,initial_visibility,observable_from_allowed_views,allowed_view_set_version,ground_truth_confidence,reviewer,evidence_path,notes

@@ -1,1 +1,1 @@
-run_id,region_id,target_id,matched_track_id,first_detected_s,ever_detected,accepted,grade_correct,failure_type,removed_by,physically_collected,damage_label,reviewer,notes
+run_id,snapshot_id,region_id,scene_version,ground_truth_version,target_id,matched_track_id,first_detected_s,ever_detected,confirmed_in_snapshot,grade_accepted,grade_correct,failure_type,removed_by,physically_collected,damage_label,reviewer,notes

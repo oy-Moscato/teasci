@@ -1,0 +1,1 @@
+batch_id,region_id,scene_version,ground_truth_version,capture_started_at,capture_ended_at,reference_before_path,reference_after_path,qc_rule_version,qc_status,qc_evidence_path,first_scene_intervention_at,truth_review_started_at,notes

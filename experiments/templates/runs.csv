@@ -1,1 +1,1 @@
-run_id,region_id,task_id,protocol_version,git_commit,method,model_hash,threshold_version,calibration_id,split,view_budget,time_budget_s,start_time,end_time,scan_wall_time_s,stop_reason,human_intervention,notes
+run_id,region_id,scene_version,batch_id,task_id,protocol_version,protocol_freeze_path,git_commit,method,comparison_layer,backend_version,model_hash,threshold_version,calibration_id,action_set_version,split,time_mode,cost_model_version,view_budget,time_budget_s,start_time,end_time,scan_wall_time_s,stop_reason,human_intervention,data_manifest_path,notes
