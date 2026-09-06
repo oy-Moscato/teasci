@@ -1,10 +1,11 @@
 # 实验记录
 
-当前只有空白模板，没有本项目实测数据或采集/评价程序。建议协议 `pilot-v0.2` 修订了字段结构；模板不含数据，不表示日志功能已实现或验收。已有外部记录若需迁移，保留原件、注明原版本并检查字段含义，不能只改版本号。行动顺序见 [PREPARATION](../docs/PREPARATION.md)，协议见 [EXPERIMENT_PLAN](../docs/EXPERIMENT_PLAN.md)，指标见 [METRICS](../docs/METRICS.md)。
+本目录包含空白记录模板与按已知证据填写的[行动前工作协议](preparation/2026-09-06/working_protocol.md)，没有本项目自然茶树实测数据或已验收的采集/评价程序。其他项目的旧程序和代理数据在[证据索引](../evidence/local_inventory/INDEX.md)，迁移边界见[工程交接](../docs/ENGINEERING_HANDOFF.md)。建议协议 `pilot-v0.2` 修订了字段结构；模板不含数据，不表示日志功能已实现或验收。迁移记录须保留原件、注明原版本并检查字段含义，不能只改版本号。行动顺序见 [PREPARATION](../docs/PREPARATION.md)，协议见 [EXPERIMENT_PLAN](../docs/EXPERIMENT_PLAN.md)，指标见 [METRICS](../docs/METRICS.md)。
 
 | 模板 | 每行是什么 |
 | --- | --- |
 | [hardware_inventory.csv](templates/hardware_inventory.csv) | 一个硬件或软件配置项，未测信息留空 |
+| [data_manifest.csv](templates/data_manifest.csv) | 一个不可变数据文件的路径、用途、来源与字节哈希 |
 | [regions.csv](templates/regions.csv) | 一个区域、场景、真值版本组合的边界定义与真值统计 |
 | [scene_batches.csv](templates/scene_batches.csv) | 一个非破坏观察批次、参考复拍、变化质检与后验核验时序 |
 | [runs.csv](templates/runs.csv) | 一次策略运行与场景、数据批次、比较层、版本、预算、时间模式 |
@@ -16,6 +17,8 @@
 | [output_matches.csv](templates/output_matches.csv) | 一条输出的后验真值匹配，仅评价侧可读 |
 | [outcomes.csv](templates/outcomes.csv) | 一个真值目标在一个快照下的状态及历史诊断，仅评价侧可读 |
 | [protocol_freeze.md](templates/protocol_freeze.md) | 一次比较的工作协议、冻结参数、证据及进入条件 |
+| [development_session.md](templates/development_session.md) | 首次开发试采的填写、采集顺序和返回材料 |
+| [annotation_rules.md](templates/annotation_rules.md) | 芽梢实例、区域归属与独立核验的待验证规则 |
 | [run_report.md](templates/run_report.md) | 一次实验的可复核说明 |
 
 ## 关联与版本
@@ -48,6 +51,8 @@
 
 `source_capture_at` 是原始拍摄日期时间，批次的 `_at`、运行的 `start_time`/`end_time` 以及 `recorded_at` 使用含时区的 ISO 8601；其他相对时间单位为秒。长度为米，姿态四元数顺序是 `qx,qy,qz,qw`，坐标系与变换方向在冻结表声明。CSV 空值表示未记录或不适用，原因须说明；布尔值用 0/1，未知不能填 0。可观测性字段用 `visible`（已见证可见）、`not_visible_in_checked_set`（已检查集合内不可见）、`unknown`（未确定），并给出所指视图集。
 
-图像、深度、日志通过相对路径或团队可访问的数据版本引用，在 `data_manifest_path` 登记原始左右图、深度、位姿、成本依据、输出清单及 SHA256。图像侧真值标记不得进入算法输入。区域定义和标定可作为输入，区域真值统计、目标表、输出匹配、真值结果表及未选视图仅评价/采集侧可读。控制器只接收已选视图与可用历史；冻结表写明实际隔离措施，不能只靠“约定不看”。
+图像、深度、日志通过相对路径或团队可访问的数据版本引用，在 `data_manifest_path` 指向的清单登记彩色图、深度、元数据、校准/位姿、成本依据及输出清单；原始左右图在重算双目深度或方法实际需要时另登记。图像侧真值标记不得进入算法输入。区域定义和标定可作为输入，区域真值统计、目标表、输出匹配、真值结果表及未选视图仅评价/采集侧可读。控制器只接收已选视图与可用历史；冻结表写明实际隔离措施，不能只靠“约定不看”。
+
+`data_manifest.csv` 每行对应数据根目录下一个不可变文件：`file_id` 唯一，`relative_path` 相对已登记的数据根目录，`bytes` 与 `sha256` 对应原始字节；共享配置/校准可无 `source_observation_id`，原因写入备注。`role`（文件用途）取 `input`（可向算法开放的观测/标定）、`evaluation`（仅评价）、`log`（运行记录）或 `output`（输出快照）。标为可开放不表示算法可任意读取所有视图；观测仍逐次按选择开放。文件清单本身可能包含真值/未选视图信息，留在采集/评价端，另生成每次运行可读的输入清单。`code_version`、`calibration_version` 引用精确版本；修改数据生成新版本/哈希，不覆盖旧记录。清单自身无需自我哈希，可由上层提交或外层校验文件固定。
 
 建议结果路径为 `experiments/results/<run_id>/`；尚未有实验时不预填成果。大型原始图像、视频或模型权重不直接混入文献仓库，先约定数据存储位置。

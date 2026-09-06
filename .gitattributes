@@ -1,0 +1,5 @@
+# Preserve exact bytes for archived evidence and generated CSV indexes.
+# Their recorded hashes must also survive a checkout with core.autocrlf=true.
+archive/reports/** -text
+evidence/local_inventory/** -text
+literature/*.csv -text

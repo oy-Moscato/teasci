@@ -1,0 +1,10 @@
+EXCERPT / 节选，不是原文件全文
+
+来源别名：SRC-ABOT/sources/物流搬运实践快速上手指南.txt
+原文行号：50-52
+节选目的：说明两个舵机字段与相机转轴方向的对应关系。
+删改说明：仅省略与相机舵机无关的上下文；以下三行未改写。
+
+rostopic pub -1 servo riki_msgs/Servo "Servo1: 90 Servo2: 20"
+其中 Servo1: 90 控制摄像头左右转
+Servo2: 20 控制摄像头上下转

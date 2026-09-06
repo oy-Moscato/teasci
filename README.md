@@ -19,15 +19,19 @@
 | 开始新工作前查重、认领、提交成果的办法 | [CONTRIBUTING](CONTRIBUTING.md) |
 | 下一步实验、职责与完成条件 | [TASKS](docs/TASKS.md) |
 | 行动前要准备什么、何时进入正式比较 | [PREPARATION](docs/PREPARATION.md)、[协议冻结表](experiments/templates/protocol_freeze.md) |
+| 新证据如何用于下一步、首次试采如何执行 | [工程迁移](docs/ENGINEERING_HANDOFF.md)、[本轮工作协议](experiments/preparation/2026-09-06/working_protocol.md)、[试采工作表](experiments/templates/development_session.md) |
 | 关键近邻、可引用结论及不能外推的内容 | [文献审查入口](literature/README.md)、[最新证据审查](literature/CURRENT_AUDIT.md) |
 | 四轮历史审查中全部文献条目的可搜索台账 | [literature_index.csv](literature/literature_index.csv) |
 | 已经用过的检索词，避免重新广搜 | [search_log.csv](literature/search_log.csv) |
 | 曾讨论过的 38 个可检验问题 | [question_index.csv](literature/question_index.csv)，当前优先级仍以任务台账为准 |
 | 最小可行实验与指标分母 | [EXPERIMENT_PLAN](docs/EXPERIMENT_PLAN.md)、[METRICS](docs/METRICS.md) |
 | 数据字段、实验版本、空白记录表 | [实验记录入口](experiments/README.md) |
+| 本机旧工程证据、数值复算和复现缺口 | [证据索引](evidence/local_inventory/INDEX.md)、[独立复核](reviews/LOCAL_INVENTORY_REVIEW_2026-09-06.md) |
 | 用户逐条原话、最近两轮答复和较早四份报告 | [对话与原始报告档案](archive/README.md) |
 
 先导协议已修订为 `pilot-v0.2` 建议版：同一截止清单评价发现率与精确率、观察后再改变场景核验、限定稳定回放、分开机制与系统比较、保存完整快照、采用三种去留判断。修订来源见 D22–D27。现在可认领 T01/T02/T04 开展盘点、标注定义和开发试采；型号、场地、预算与记录程序验收等进入条件仍需实际证据。
+
+新增证据已与准备材料整合在本草稿分支，T01 为部分完成。下一步按“确认本轮设备/采集实现 → 桌面数据检查 → 小批自然茶树开发试采 → 冻结正式比较”推进；历史版本缺失限制旧结果复现，不阻止新实现独立验收。原始左右图按方法需要补，不将完整四关键点、分级或采摘机器人作为统一开工门槛。具体边界见 D31–D33；两份合并请求均未合入主分支。
 
 ## 接手规则
 
@@ -38,6 +42,6 @@
 
 ## 本次入库范围
 
-维护日期：2026-09-06。包含当前可取得的对话内容、四份 2026-09-05 原始审查报告、后续证据纠正和可执行协作模板。**这不是聊天平台的全量原始导出**；覆盖限制见档案说明。尚未导入真实茶树数据、训练权重或算法代码；表格模板没有填造实验结果。
+维护日期：2026-09-06。包含当前可取得的对话内容、四份 2026-09-05 原始审查报告、后续证据纠正和可执行协作模板。**这不是聊天平台的全量原始导出**；覆盖限制见档案说明。已收录其他相关项目的室内样例、代理植物结果和部分计算代码供复核，尚未导入本题真实茶树数据、训练权重或完整主动发现实现；表格模板没有填造实验结果。
 
 更新文献索引：`python tools/build_indexes.py`。检查文件链接、索引和档案完整性：`python tools/validate_repository.py`。
