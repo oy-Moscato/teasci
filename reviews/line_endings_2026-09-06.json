@@ -1,0 +1,18 @@
+{
+  "scope": "isolated_checkout_simulation_not_user_machine_configuration",
+  "core.autocrlf": true,
+  "ref": "4c03ab1b49685e8a6d34341d63861736446141d2",
+  "before_exit": 1,
+  "before_messages": [
+    "Archive changed: archive/reports/tea_camera_end_effector_audit_2026-09-05.md",
+    "Archive changed: archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md",
+    "Archive changed: archive/reports/tea_target_memory_novelty_audit_2026-09-05.md",
+    "Archive changed: archive/reports/tea_vision_novelty_audit_2026-09-05.md"
+  ],
+  "after_exit": 0,
+  "after_messages": [
+    "PASS: local links, source IDs, CSV schema, generated indexes, 38 questions and original archive hashes."
+  ],
+  "after_evidence_hash_passed": 19,
+  "after_evidence_hash_total": 19
+}

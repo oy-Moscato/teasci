@@ -1,0 +1,1 @@
+{"calibration_id":"geminipro_640x480_depth_640x480","valid":true,"depth_intrinsics":{"fx":453.97818,"fy":453.97818,"cx":325.10907,"cy":243.124802,"width":640,"height":480},"rgb_intrinsics":{"fx":453.97818,"fy":453.97818,"cx":325.10907,"cy":243.124802,"width":640,"height":480},"depth_to_color":{"rotation":[1,0,0,0,1,0,0,0,1],"translation_mm":[0,0,0]}}

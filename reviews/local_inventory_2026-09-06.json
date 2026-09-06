@@ -1,0 +1,290 @@
+{
+  "source_evidence_commit": "4c03ab1b49685e8a6d34341d63861736446141d2",
+  "checked_main_commit": "4b9e436320edd187326884b16e1a8e6f9f47af6d",
+  "scope": "offline_uploaded_files_only_no_new_experiment",
+  "runtime": {
+    "numpy": "2.3.5",
+    "pillow": "12.3.0"
+  },
+  "evidence_hashes": [
+    {
+      "path": "abot_proxy/config_notes/camera_tf_runtime_EXCERPT.txt",
+      "matches": true
+    },
+    {
+      "path": "abot_proxy/config_notes/servo_axis_control_EXCERPT.txt",
+      "matches": true
+    },
+    {
+      "path": "abot_proxy/geometry/final_30frames.json",
+      "matches": true
+    },
+    {
+      "path": "abot_proxy/geometry/registered_depth_snapshot.py",
+      "matches": true
+    },
+    {
+      "path": "abot_proxy/geometry/stem_axis_geometry.py",
+      "matches": true
+    },
+    {
+      "path": "abot_proxy/geometry/stem_axis_live_probe.py",
+      "matches": true
+    },
+    {
+      "path": "abot_proxy/geometry/test_stem_axis_geometry.py",
+      "matches": true
+    },
+    {
+      "path": "abot_proxy/reports/06_RGB高分辨率解耦修复与标定门_20260720.md",
+      "matches": true
+    },
+    {
+      "path": "abot_proxy/reports/09_现场植物代理闭环验证_20260724.md",
+      "matches": true
+    },
+    {
+      "path": "abot_proxy/reports/10_现场代理茎3D方向闭环_20260724.md",
+      "matches": true
+    },
+    {
+      "path": "abot_proxy/scan/camera_servo_grid_scan.py",
+      "matches": true
+    },
+    {
+      "path": "abot_proxy/scan/manifest.json",
+      "matches": true
+    },
+    {
+      "path": "camera_session_82_frames/calibration.json",
+      "matches": true
+    },
+    {
+      "path": "camera_session_82_frames/frame_00000000/depth_00000000.png",
+      "matches": true
+    },
+    {
+      "path": "camera_session_82_frames/frame_00000000/invalid_mask_00000000.png",
+      "matches": true
+    },
+    {
+      "path": "camera_session_82_frames/frame_00000000/rgb_00000000.png",
+      "matches": true
+    },
+    {
+      "path": "camera_session_82_frames/frames_first3_last3_EXCERPT.jsonl",
+      "matches": true
+    },
+    {
+      "path": "LOCAL_INVENTORY_SUMMARY_2026-09-06.md",
+      "matches": true
+    },
+    {
+      "path": "METRIC_PROVENANCE.md",
+      "matches": true
+    }
+  ],
+  "main_archive_git_blob_hashes": [
+    {
+      "path": "archive/reports/tea_camera_end_effector_audit_2026-09-05.md",
+      "matches": true
+    },
+    {
+      "path": "archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md",
+      "matches": true
+    },
+    {
+      "path": "archive/reports/tea_target_memory_novelty_audit_2026-09-05.md",
+      "matches": true
+    },
+    {
+      "path": "archive/reports/tea_vision_novelty_audit_2026-09-05.md",
+      "matches": true
+    }
+  ],
+  "geometry": {
+    "accepted_frames": 29,
+    "attempted_frames": 30,
+    "unique_accepted_stamps": 29,
+    "accepted_span_s": 50.98616170883179,
+    "angular_median_deg": 1.0076688283611526,
+    "angular_p95_deg": 3.1442611925625124,
+    "frame_residual_p95_median_mm": 10.503640510746047,
+    "rejected_frames": [
+      {
+        "accepted": false,
+        "index": 12,
+        "reject": "no supported depth cluster at uv=(240.0, 380.0)"
+      }
+    ],
+    "historical_code_hash": "8e7c692a6de6fe6656883af23077ab6f0042c4e0aa8c8d09c68c81ca9cb928de",
+    "uploaded_code_hash": "cfee8bbc462a6afdf5a6dbf44162e1fe51a09db6b4316d1886351388d17fb127",
+    "historical_hash_matches_either_line_ending": false,
+    "refit_checks": [
+      {
+        "threshold_m": 0.015,
+        "different_frames": 15,
+        "differences": [
+          {
+            "frame_index": 0,
+            "axis_difference_deg": 8.440765182458248,
+            "saved_residual_p95_mm": 10.789788965262542,
+            "refitted_residual_p95_mm": 2.1485613005160653
+          },
+          {
+            "frame_index": 1,
+            "axis_difference_deg": 3.236334936335073,
+            "saved_residual_p95_mm": 12.54939480570269,
+            "refitted_residual_p95_mm": 1.9245998472821437
+          },
+          {
+            "frame_index": 3,
+            "axis_difference_deg": 9.068131182525915,
+            "saved_residual_p95_mm": 11.81015804981638,
+            "refitted_residual_p95_mm": 3.0021768304765257
+          },
+          {
+            "frame_index": 5,
+            "axis_difference_deg": 8.076912013651654,
+            "saved_residual_p95_mm": 10.503640510746047,
+            "refitted_residual_p95_mm": 2.917203274018238
+          },
+          {
+            "frame_index": 6,
+            "axis_difference_deg": 3.0622488244400015,
+            "saved_residual_p95_mm": 12.745922052998642,
+            "refitted_residual_p95_mm": 1.2057109375775419
+          },
+          {
+            "frame_index": 7,
+            "axis_difference_deg": 13.047566115425557,
+            "saved_residual_p95_mm": 5.157405154628434,
+            "refitted_residual_p95_mm": 1.4493915268130553
+          },
+          {
+            "frame_index": 8,
+            "axis_difference_deg": 10.498311633113277,
+            "saved_residual_p95_mm": 13.751023203250982,
+            "refitted_residual_p95_mm": 4.196180213312334
+          },
+          {
+            "frame_index": 11,
+            "axis_difference_deg": 2.691978103065787,
+            "saved_residual_p95_mm": 10.960661972596005,
+            "refitted_residual_p95_mm": 1.0970187849820252
+          },
+          {
+            "frame_index": 14,
+            "axis_difference_deg": 8.543357494250493,
+            "saved_residual_p95_mm": 12.100782315395623,
+            "refitted_residual_p95_mm": 5.657135306850424
+          },
+          {
+            "frame_index": 15,
+            "axis_difference_deg": 2.840297067379259,
+            "saved_residual_p95_mm": 11.981134320300239,
+            "refitted_residual_p95_mm": 1.6187294543496218
+          },
+          {
+            "frame_index": 16,
+            "axis_difference_deg": 6.893336467186544,
+            "saved_residual_p95_mm": 10.631258253291548,
+            "refitted_residual_p95_mm": 6.619180297531956
+          },
+          {
+            "frame_index": 18,
+            "axis_difference_deg": 8.100467086518242,
+            "saved_residual_p95_mm": 11.579546780689075,
+            "refitted_residual_p95_mm": 5.981589132042823
+          },
+          {
+            "frame_index": 20,
+            "axis_difference_deg": 2.5966658949139356,
+            "saved_residual_p95_mm": 11.344754262700427,
+            "refitted_residual_p95_mm": 3.1030297797428936
+          },
+          {
+            "frame_index": 26,
+            "axis_difference_deg": 2.782909219511046,
+            "saved_residual_p95_mm": 12.061988242090926,
+            "refitted_residual_p95_mm": 2.0785023921975925
+          },
+          {
+            "frame_index": 27,
+            "axis_difference_deg": 8.112926515315419,
+            "saved_residual_p95_mm": 11.985781586006288,
+            "refitted_residual_p95_mm": 6.603752473901143
+          }
+        ]
+      },
+      {
+        "threshold_m": 0.02,
+        "different_frames": 1,
+        "differences": [
+          {
+            "frame_index": 7,
+            "axis_difference_deg": 13.047566115425557,
+            "saved_residual_p95_mm": 5.157405154628434,
+            "refitted_residual_p95_mm": 1.4493915268130553
+          }
+        ]
+      }
+    ]
+  },
+  "camera_sample": {
+    "rgb_shape": [
+      480,
+      640,
+      3
+    ],
+    "depth_shape": [
+      480,
+      640
+    ],
+    "depth_dtype": "uint16",
+    "nonzero_depth_ratio": 0.7173079427083333,
+    "mask_values": [
+      0,
+      255
+    ],
+    "mask_valid_ratio": 0.7173079427083333,
+    "mask_zero_depth_disagreement_pixels": 0,
+    "stored_valid_ratio": 0.717,
+    "excerpt_frame_ids": [
+      "00000000",
+      "00000001",
+      "00000002",
+      "00000079",
+      "00000080",
+      "00000081"
+    ],
+    "excerpt_sync_delta_ms": [
+      47.631,
+      44.809,
+      42.392,
+      14.812,
+      13.005,
+      11.441
+    ],
+    "excerpt_qc_pass": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "domain_tags": [
+      "tea_garden_proxy"
+    ]
+  },
+  "scan": {
+    "count": 30,
+    "unique_angles": 30,
+    "unique_stamps": 30,
+    "span_s": 37.268949031829834,
+    "records_with_raw_file": 0,
+    "records_with_depth_field": 0,
+    "manifest_order": "score_ranked_use_index_for_time_order"
+  }
+}
