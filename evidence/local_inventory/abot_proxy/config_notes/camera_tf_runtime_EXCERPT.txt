@@ -1,0 +1,12 @@
+EXCERPT / 节选，不是原日志全文
+
+来源别名：SRC-ABOT/artifacts/RGB七档视频流实测_20260720/logs/final_processes.txt
+原文行号：299-302
+节选目的：保留现场运行时观察到的四条相机静态 TF 参数。
+删改说明：去除了 PID、进程状态、运行时长和 /home/abot/.ros/log 路径；保留 static_transform_publisher 参数与父子 frame。
+证据边界：这是运行时进程快照，不是经过物理复测的相机安装尺寸或手眼标定结果。
+
+static_transform_publisher 0 -0.02 0 0 0 0 /camera_link /camera_depth_frame
+static_transform_publisher 0 -0.045 0 0 0 0 /camera_link /camera_rgb_frame
+static_transform_publisher 0 0 0 -1.5707963267948966 0 -1.5707963267948966 /camera_depth_frame /camera_depth_optical_frame
+static_transform_publisher 0 0 0 -1.5707963267948966 0 -1.5707963267948966 /camera_rgb_frame /camera_rgb_optical_frame
