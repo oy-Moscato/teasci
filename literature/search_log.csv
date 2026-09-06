@@ -1,0 +1,171 @@
+id,query,dates,provenance,recovered_occurrences
+Q001,"""tea picking"" ""eye-in-hand""",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q002,"""tea"" ""camera"" ""end-effector"" ""visual servoing""",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q003,"""tea harvesting"" ""close-range"" camera",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q004,"""tea"" ""eye in hand"" camera harvesting",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q005,"""harvesting"" ""wrist-mounted"" camera ""visual servoing""",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q006,"""fruit picking"" ""coarse-to-fine"" ""eye-in-hand""",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q007,"""Towards autonomous premium tea harvesting""",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q008,"""Vision-Based Localization Method for Picking Points in Tea-Harvesting Robots""",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q009,"""Development and field evaluation of a robotic harvesting system for"" tea",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q010,"""Design of an eye-in-hand sensing and servo control framework"" site:research.wur.nl",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q011,"""Dynamic visual servo control methods for continuous"" harvesting",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q012,采茶 机器人 末端 相机 手眼 近距离 二次 定位,2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q013,"""Vision-Based Localization Method for Picking Points"" PMC",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q014,"""Towards autonomous premium tea harvesting"" camera wrist",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q015,"""harvesting"" ""camera"" ""gripper"" ""occlusion"" ""peduncle"" visual servo",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q016,"""eye-in-hand"" ""tea"" ""secondary"" localization",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q017,"""tea picking"" ""camera"" ""integrated"" end effector",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q018,"""harvesting"" ""end-effector"" ""camera placement"" visibility",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q019,"""Palm vision and servo control strategy of tomato picking""",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q020,"""A Progressive Hybrid Automatic Switching Visual Servoing""",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q021,"""Vision-Based Localization"" ""6777"" ""Abstract""",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q022,"""Real-Time Constrained Visual Servoing for Agricultural""",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q023,"""robot"" ""harvesting"" ""camera"" ""capture region"" tolerance",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q024,"""harvesting"" ""gripper"" ""blind"" ""visual servoing""",2026-09-05,archive/reports/tea_camera_end_effector_audit_2026-09-05.md,1
+Q025,tea shoot active perception next best view occlusion harvesting 2024 2025 2026,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q026,tea bud leaves instance segmentation 3D pose estimation plucking point posture 2025,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q027,tea shoot visual servoing tracking wind occlusion edge computing ROI 2025 2026,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q028,robotic harvesting active vision viewpoint selection uncertainty occlusion optimal stopping,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q029,visual servoing adaptive region of interest event triggered computation delay robot harvesting,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q030,tea shoot stem fracture force visual tactile gripper 2025 2026,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q031,Plucking Point and Posture Determination of Tea Buds 2025,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q032,Semantics-Aware Next-best-view Planning journal,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q033,Occlusion Avoidance for Harvesting Robots 291,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q034,Exploiting anchor-free and graph reasoning tea,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q035,robotic harvesting viewpoint planning wind moving plants non rigid active vision,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q036,tea shoot tracking identity switching multi view harvesting,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q037,stereo thin plant stems depth uncertainty sunlight close range robotic harvesting,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q038,robotic harvesting confidence calibration selective prediction abstention uncertainty,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q039,edge vision adaptive crop region of interest closed loop latency scheduling visual servo,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q040,visual servoing computation delay event triggered predictive control 2025,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q041,tea bud grading temporal multi view consistency illumination exposure active imaging,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q042,tea harvesting picking point uncertainty grasp failure slip detection vision force,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q043,"""Multiple object tracking with multi-view active vision""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q044,"""Occlusion Avoidance for Harvesting Robots"" ""Abstract""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q045,"""View planning for grape harvesting""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q046,"""Attention-driven next-best-view planning""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q047,"""tea"" ""exposure"" ""harvesting"" camera",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q048,"""plant"" ""stereo"" ""thin"" ""depth"" reconstruction",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q049,"""Calibrated Action Abstention""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q050,"""Closed-Loop"" ""ROI"" ""3086499""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q051,"""tea"" ""picking"" ""slip"" vision",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q052,"""visual servoing"" ""self-occlusion"" gripper",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q053,"""visual servoing"" ""region of interest"" ""2012""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q054,"""Viewpoint"" ""optimal stopping"" ""2320795""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q055,"""10.1109/ACCESS.2021.3086499""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q056,"""10.1109/TRO.2014.2320795""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q057,"""10.1177/0278364911436082""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q058,"""YOLO Recognition Method for Tea Shoots Based on Polariser Filtering and LFAnet""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q059,"""Comparing RGB-D Sensors for Close Range Outdoor""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q060,"""On Calibration of Modern Neural Networks""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q061,"""View Planning for Grape Harvesting Based on Active Vision Strategy Under Occlusion"" DOI",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q062,"""View planning for grape harvesting based on self"" DOI",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q063,"""Robotic visual servoing of moving targets"" 2015 DOI",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q064,Discrete-Time Visual Servoing Control with Adaptive Image Feature Prediction DOI,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q065,Learning-Based Slip Detection for Robotic Fruit Grasping DOI,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q066,Occlusion Avoidance for Harvesting Robots: A Lightweight Active Perception Model site:pubmed.ncbi.nlm.nih.gov,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q067,Semantics-aware next-best-view planning site:research.wur.nl,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q068,Occlusion Avoidance for Harvesting Robots site:pmc.ncbi.nlm.nih.gov/articles/PMC12788279 ResNet,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q069,Exploiting anchor-free and graph reasoning site:sciencedirect.com graph,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q070,Plucking Point and Posture Determination site:mdpi.com/2077-0472/15/2/144 Abstract,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q071,茶芽 采摘 主动视觉 视角 遮挡 多视角,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q072,茶叶 采摘 视觉 ROI 裁剪 时延 闭环,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q073,茶芽 夹持位置 断裂位置 滑移 力控,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q074,茶芽 叶片 茎 归属 拓扑 关键点 多视角,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q075,robotic harvesting perception aware picking sequence occlusion removal fruit active perception,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q076,harvesting robot exploration exploitation target selection confidence stop search,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q077,robot harvesting picking ordering reveals occluded fruit perception action planning,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q078,tea harvesting active vision stage target selection region completion missed detection,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q079,"""Optimising Fruit Harvesting Paths"" ""Mapless""",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q080,"""harvesting"" ""uncertainty"" ""target selection"" active vision",2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q081,A Lightweight Tea Bud-Grading Detection Model site:mdpi.com/2073-4395/15/3/582,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q082,Planning the sequence of tasks for harvesting robots DOI,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q083,Optimising Fruit Harvesting Paths Abstract,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q084,An environment-adaptive multi-modal perception edge-AI,2026-09-05,archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md,1
+Q085,robotic harvesting pre scan 3D map fruit targets eye in hand visual servo coarse fine localization,2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q086,tea harvesting global local camera pre scanning point cloud target map picking visual servo,2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q087,robotic harvesting persistent semantic map fruit tracking map update occlusion visual memory,2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q088,robot manipulation coarse uncertain target location visual servo handover capture region eye in hand,2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q089,"""Panoptic Mapping with Fruit Completion and Pose Estimation""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q090,"""Spatio-Temporal Consistent Semantic Mapping"" fruit 2025",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q091,"""Computer vision-based high-quality tea automatic plucking robot using Delta parallel manipulator""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q092,"""Palm vision and servo control strategy of tomato picking robot based on global positioning""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q093,"""fruit"" ""harvesting"" ""map"" ""relocalization""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q094,"""harvesting"" ""coarse"" ""fine"" ""uncertainty"" visual servoing",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q095,robot harvesting map fruit position update after picking plant deformation,2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q096,robot visual servoing target reacquisition uncertainty field of view coarse localization,2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q097,"""Real-time Stereo Visual Servoing for Rose Pruning"" scan",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q098,"""harvesting"" ""relocalization"" ""fruit"" ""map""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q099,"""plant"" ""non-rigid"" ""mapping"" ""fruit""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q100,"""visual servoing"" ""uncertainty"" ""field of view"" ""switching""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q101,"""tea"" ""multi-view"" ""one bud"" ""occlusion""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q102,"""TeaNeRF""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q103,"""robot harvesting"" ""after picking"" ""position""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q104,"""Multiple orange detection and tracking"" ""109199""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q105,"""To Harvest or Not to Harvest"" mapping decision",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q106,"""4D Metric-Semantic Mapping for Persistent Orchard Monitoring""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q107,"""plant"" ""deformation"" ""data association"" Magistri",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q108,"""Computer vision-based high-quality tea automatic plucking robot"" ""global"" ""local""",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q109,"""Keeping Features in the Field of View"" ""Chesi"" 2004",2026-09-05,archive/reports/tea_target_memory_novelty_audit_2026-09-05.md,1
+Q110,"""tea"" ""dynamic ROI"" sorting",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round1.json,2
+Q111,"""tea bud"" ""grading"" ""embedded""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round1.json,2
+Q112,"""tea"" ""active vision"" picking",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round1.json,2
+Q113,"""tea shoots"" ""binocular"" localization",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round1.json,2
+Q114,"""tea"" ""multi-view"" grading ""classification""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round1.json,2
+Q115,"""tea"" ""end effector"" ""tolerance""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round1.json,2
+Q116,"""adaptive"" ""ROI"" ""edge"" ""object detection"" feedback",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round2.json,2
+Q117,"""AdaZoom"" ""object detection""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round2.json,2
+Q118,"""AutoFocus"" ""Efficient Multi-Scale Inference""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round2.json,2
+Q119,"""AdaScale"" ""real-time video object detection""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round2.json,2
+Q120,"""Remix"" ""object detection"" high resolution",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round2.json,2
+Q121,"""dynamic"" ""cropping"" ""classification"" ""early""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round2.json,2
+Q122,"""active vision"" ""classification"" ""view"" ""stopping""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round3.json,2
+Q123,"""next best view"" ""fruit"" ""classification""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round3.json,2
+Q124,"""active perception"" ""harvesting"" ""viewpoint"" ""occlusion""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round3.json,2
+Q125,"""multi-view"" ""recognition"" ""view selection"" ""budget""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round3.json,2
+Q126,"""event-triggered"" ""visual"" ""perception"" ""computation""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round3.json,2
+Q127,"""visual servoing"" ""ROI"" ""delay""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round3.json,2
+Q128,"""Dynamic visual servoing from sequential regions of interest""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round4.json,2
+Q129,"""Closed-Loop Region of Interest Enabling High Spatial and""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round4.json,2
+Q130,"""Nonmyopic View Planning for Active Object Classification and Pose Estimation"" DOI",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round4.json,2
+Q131,"""AdaScale"" site:proceedings.mlsys.org",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round4.json,2
+Q132,"""AutoFocus: Efficient Multi-Scale Inference"" site:openaccess.thecvf.com",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round4.json,2
+Q133,"""Achieving Real-time Visual Tracking with Low-Cost Edge AI""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round4.json,2
+Q134,"""visual servoing"" ""perception"" ""co-design"" latency",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round5.json,2
+Q135,"""perception control"" ""adaptive"" ""resolution""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round5.json,2
+Q136,"""Dynamic visual servoing"" ""2012"" ""10.1177""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round5.json,2
+Q137,"""Closed-Loop Region of Interest"" ""10.1109""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round5.json,2
+Q138,"""tea"" ""active"" ""grading"" ""view"" -site:researchgate.net -site:facebook.com",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round5.json,2
+Q139,"""tea"" ""uncertainty"" ""grading"" detection",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round5.json,2
+Q140,"""A real-time perception–motion codesign method""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round6.json,2
+Q141,"""Closed-Loop Region of Interest"" Chen Huang Rupp",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round6.json,2
+Q142,"""End-to-end policy learning for active visual categorization"" DOI",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round6.json,2
+Q143,"""AdaZoom"" ""9786052"" DOI",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round6.json,2
+Q144,"""tea"" ""classification"" ""next-best-view""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round6.json,2
+Q145,"""tea"" ""ROI"" ""feedback""",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round6.json,2
+Q146,"""Closed-Loop Region of Interest"" ""feedback"" site:ieeexplore.ieee.org",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round7.json,2
+Q147,"""Closed-Loop Region of Interest"" ""Abstract"" site:dspace.mit.edu",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round7.json,2
+Q148,"""tea shoot"" grading ""active"" viewpoint",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round7.json,2
+Q149,"""tea bud"" grading topology keypoints graph occlusion",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round7.json,2
+Q150,茶树 芽叶 分级 主动视觉 视点 ROI,2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round7.json,2
+Q151,"""tea"" ""grading"" ""structural"" keypoint leaf",2026-09-05,archive/reports/tea_vision_novelty_audit_2026-09-05.md;tea_search_round7.json,2
+Q152,"""Impedance Control Method for Tea-Picking Robotic Dexterous Hand Based on WOA-KAN"" ""vision""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q153,"""tea"" ""active vision"" picking occlusion",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q154,"""tea"" ""next best view""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q155,"""active vision"" ""missed"" ""harvesting""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q156,"site.mdpi.com/1424-8220/25/23/7219 ""Multiple picking positions""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q157,"site.mdpi.com/1424-8220/25/23/7219 ""vision"" ""position""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q158,茶芽 主动视觉 视点规划 漏检 区域,2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q159,"""Development and field evaluation of a robotic harvesting system for plucking high-quality tea""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q160,"""RETRACTION"" ""Intelligent Tea-Picking System""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q161,"""tea shoots"" ""active perception""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q162,"""茶芽"" ""主动视觉""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q163,"""tea"" ""coverage"" ""view planning""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q164,"""tea shoots"" ""viewpoint"" ""active""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q165,"""tea"" ""active vision"" ""occlusion"" -site:researchgate.net -site:en.wikipedia.org",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q166,"""tea"" ""regional"" ""detection"" ""scanning""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q167,"""Intelligent Tea-Picking System"" ""retracted""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q168,"""Impedance Control Method for Tea-Picking"" ""110"" ""94""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q169,"""Kinetostatic modeling"" ""94.33"" ""300""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1
+Q170,"""tea"" ""harvesting robot"" ""recall"" ""harvesting rate""",2026-09-06,当前可见工具调用；仅记录可恢复查询，不代表该日全部检索,1

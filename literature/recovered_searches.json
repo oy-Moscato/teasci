@@ -1,0 +1,212 @@
+[
+  {
+    "date": "2026-09-05",
+    "query": "\"tea\" \"dynamic ROI\" sorting",
+    "provenance": "tea_search_round1.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea bud\" \"grading\" \"embedded\"",
+    "provenance": "tea_search_round1.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea\" \"active vision\" picking",
+    "provenance": "tea_search_round1.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea shoots\" \"binocular\" localization",
+    "provenance": "tea_search_round1.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea\" \"multi-view\" grading \"classification\"",
+    "provenance": "tea_search_round1.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea\" \"end effector\" \"tolerance\"",
+    "provenance": "tea_search_round1.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"adaptive\" \"ROI\" \"edge\" \"object detection\" feedback",
+    "provenance": "tea_search_round2.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"AdaZoom\" \"object detection\"",
+    "provenance": "tea_search_round2.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"AutoFocus\" \"Efficient Multi-Scale Inference\"",
+    "provenance": "tea_search_round2.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"AdaScale\" \"real-time video object detection\"",
+    "provenance": "tea_search_round2.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"Remix\" \"object detection\" high resolution",
+    "provenance": "tea_search_round2.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"dynamic\" \"cropping\" \"classification\" \"early\"",
+    "provenance": "tea_search_round2.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"active vision\" \"classification\" \"view\" \"stopping\"",
+    "provenance": "tea_search_round3.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"next best view\" \"fruit\" \"classification\"",
+    "provenance": "tea_search_round3.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"active perception\" \"harvesting\" \"viewpoint\" \"occlusion\"",
+    "provenance": "tea_search_round3.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"multi-view\" \"recognition\" \"view selection\" \"budget\"",
+    "provenance": "tea_search_round3.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"event-triggered\" \"visual\" \"perception\" \"computation\"",
+    "provenance": "tea_search_round3.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"visual servoing\" \"ROI\" \"delay\"",
+    "provenance": "tea_search_round3.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"Dynamic visual servoing from sequential regions of interest\" ",
+    "provenance": "tea_search_round4.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"Closed-Loop Region of Interest Enabling High Spatial and\" ",
+    "provenance": "tea_search_round4.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"Nonmyopic View Planning for Active Object Classification and Pose Estimation\" DOI",
+    "provenance": "tea_search_round4.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"AdaScale\" site:proceedings.mlsys.org",
+    "provenance": "tea_search_round4.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"AutoFocus: Efficient Multi-Scale Inference\" site:openaccess.thecvf.com",
+    "provenance": "tea_search_round4.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"Achieving Real-time Visual Tracking with Low-Cost Edge AI\"",
+    "provenance": "tea_search_round4.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"visual servoing\" \"perception\" \"co-design\" latency",
+    "provenance": "tea_search_round5.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"perception control\" \"adaptive\" \"resolution\"",
+    "provenance": "tea_search_round5.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"Dynamic visual servoing\" \"2012\" \"10.1177\"",
+    "provenance": "tea_search_round5.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"Closed-Loop Region of Interest\" \"10.1109\"",
+    "provenance": "tea_search_round5.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea\" \"active\" \"grading\" \"view\" -site:researchgate.net -site:facebook.com",
+    "provenance": "tea_search_round5.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea\" \"uncertainty\" \"grading\" detection",
+    "provenance": "tea_search_round5.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"A real-time perception–motion codesign method\" ",
+    "provenance": "tea_search_round6.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"Closed-Loop Region of Interest\" Chen Huang Rupp",
+    "provenance": "tea_search_round6.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"End-to-end policy learning for active visual categorization\" DOI",
+    "provenance": "tea_search_round6.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"AdaZoom\" \"9786052\" DOI",
+    "provenance": "tea_search_round6.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea\" \"classification\" \"next-best-view\"",
+    "provenance": "tea_search_round6.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea\" \"ROI\" \"feedback\"",
+    "provenance": "tea_search_round6.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"Closed-Loop Region of Interest\" \"feedback\" site:ieeexplore.ieee.org",
+    "provenance": "tea_search_round7.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"Closed-Loop Region of Interest\" \"Abstract\" site:dspace.mit.edu",
+    "provenance": "tea_search_round7.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea shoot\" grading \"active\" viewpoint",
+    "provenance": "tea_search_round7.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea bud\" grading topology keypoints graph occlusion",
+    "provenance": "tea_search_round7.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "茶树 芽叶 分级 主动视觉 视点 ROI",
+    "provenance": "tea_search_round7.json"
+  },
+  {
+    "date": "2026-09-05",
+    "query": "\"tea\" \"grading\" \"structural\" keypoint leaf",
+    "provenance": "tea_search_round7.json"
+  }
+]

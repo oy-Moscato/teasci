@@ -1,0 +1,30 @@
+[
+  {
+    "path": "archive/reports/tea_camera_end_effector_audit_2026-09-05.md",
+    "bytes": 17758,
+    "sha256": "0cbd955cc16199982f115892d888fb2a21dbdb1dae3ef6d5b4981769aa26e9f5",
+    "original_filename": "tea_camera_end_effector_audit_2026-09-05.md",
+    "status": "historical_verbatim"
+  },
+  {
+    "path": "archive/reports/tea_region_38_questions_novelty_audit_2026-09-05.md",
+    "bytes": 82594,
+    "sha256": "fa32e9fc6b126e71c01360c08024d30f28f055afe7ba4e8d7659f8bd0bfe34f3",
+    "original_filename": "tea_region_38_questions_novelty_audit_2026-09-05.md",
+    "status": "historical_verbatim"
+  },
+  {
+    "path": "archive/reports/tea_target_memory_novelty_audit_2026-09-05.md",
+    "bytes": 24849,
+    "sha256": "49fa07e189f16f19faa8db52f5705bfcf3ee51a67ff04daaf6ddb606797bb82c",
+    "original_filename": "tea_target_memory_novelty_audit_2026-09-05.md",
+    "status": "historical_verbatim"
+  },
+  {
+    "path": "archive/reports/tea_vision_novelty_audit_2026-09-05.md",
+    "bytes": 26001,
+    "sha256": "de1723d89f0b68d27672e4843ccaaebdcf1c2d048f0f1e1aa7e6cc348e508644",
+    "original_filename": "tea_vision_novelty_audit_2026-09-05.md",
+    "status": "historical_verbatim"
+  }
+]

@@ -1,0 +1,1 @@
+run_id,observation_id,view_index,timestamp_s,x_m,y_m,z_m,qx,qy,qz,qw,coordinate_frame,motion_start_s,motion_end_s,settle_end_s,capture_end_s,inference_end_s,update_end_s,decision_end_s,rgb_path,depth_path,new_tracks,notes
